@@ -1,0 +1,1 @@
+sudo nmap -v -sS -A -T4 <target-ip>
